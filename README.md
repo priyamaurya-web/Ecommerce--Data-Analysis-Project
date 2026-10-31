@@ -1,8 +1,8 @@
 # 🛍️ E-Commerce Fashion Sales Analysis using PostgreSQL
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![PostgreSQL]()
+![SQL]()
+![Status]()
 
 **Author:** Priya Maurya
 
@@ -238,6 +238,7 @@ FROM dataset;
  Data Analyst | SQL • PostgreSQL
 
 🔗 LinkedIn: *[www.linkedin.com/in/priya-maurya-857563328]*
+
 📂 GitHub: *[https://github.com/priyamaurya-web]*
 
 
