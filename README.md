@@ -203,9 +203,8 @@ FROM dataset;
 ├── sql/
 │   └── ecommerce_analysis.sql
 ├── data/
-│   └── dataset.csv            # or a link to the source dataset
-├── images/
-│   └── query_outputs/         # screenshots of results
+│   └── dataset.csv
+|
 └── E-Commerce_Sales_Analysis_Report.pdf
 ```
 
