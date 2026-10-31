@@ -1,8 +1,5 @@
 # 🛍️ E-Commerce Fashion Sales Analysis using PostgreSQL
 
-![PostgreSQL]()
-![SQL]()
-![Status]()
 
 **Author:** Priya Maurya
 
